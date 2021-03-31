@@ -2,7 +2,7 @@
 # Distributed under the terms of the Modified BSD License.
 
 # https://hub.docker.com/r/jupyter/base-notebook/tags
-ARG BASE_CONTAINER=jupyter/base-notebook:aec555e49be6
+ARG BASE_CONTAINER=925388419436.dkr.ecr.us-west-1.amazonaws.com/base-notebook
 FROM $BASE_CONTAINER
 
 LABEL maintainer="Jupyter Project <jupyter@googlegroups.com>"
