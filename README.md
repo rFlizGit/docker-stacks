@@ -1,4 +1,6 @@
-This next section is an example of a first-time deployment of a customized Jupyter Lab Image. This example extends AWS' "datascience-notebook" by adding the "Templates" Jupyter Extension.
+# Deploying a Custom Jupyter Lab Instance
+
+This walkthrough describes a first-time deployment of a customized Jupyter Lab Image. This example extends AWS' "datascience-notebook" by adding the "Templates" Jupyter Extension.
 
 First we clone the **docker-stacks** repo from driftbio Github.
 
